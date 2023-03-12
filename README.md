@@ -1,3 +1,3 @@
 # 2048PythonProject
-test
+to_other
 TEST :)
